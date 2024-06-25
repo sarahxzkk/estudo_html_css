@@ -1,0 +1,27 @@
+div {
+    margin: 20px; /* 20 pixels de margem em todos os lados */
+    }
+  
+h1 {
+    margin: 10px 5px 15px 20px; /* 10 pixels no topo, 5 pixels à direita, 15 pixels no fundo, 20 pixels à esquerda */
+   } 
+  
+p {
+    margin: 20px 15px; /* 10 pixels de margem no topo e no fundo, 5 pixels nas laterais */
+  }
+
+  elemento {
+    /* Se você fornecer um valor, ele será aplicado a todos os quatro lados */
+    margin: 20px;
+  
+    /* Se você fornecer dois valores, o primeiro será aplicado ao topo e ao fundo, e o segundo às laterais */
+    margin: 20px 10px;
+  
+    /* Se você fornecer três valores, o primeiro será aplicado ao topo, o segundo às laterais e o terceiro ao fundo */
+    margin: 20px 10px 5px;
+  
+    /* Se você fornecer quatro valores, eles serão aplicados no sentido horário a partir do topo: topo, direita, fundo, esquerda */
+    margin: 20px 10px 5px 15px;
+  }
+
+  
