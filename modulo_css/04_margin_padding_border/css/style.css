@@ -24,4 +24,9 @@ p {
     margin: 20px 10px 5px 15px;
   }
 
-  
+  elemento {
+    margin-top: valor;    /* Margem superior */
+    margin-right: valor;  /* Margem direita */
+    margin-bottom: valor; /* Margem inferior */
+    margin-left: valor;   /* Margem esquerda */
+  }
