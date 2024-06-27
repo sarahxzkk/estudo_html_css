@@ -8,6 +8,7 @@ h1 {
   
 p {
     margin: 20px 15px; /* 10 pixels de margem no topo e no fundo, 5 pixels nas laterais */
+    padding: 20px;
   }
 
   elemento {
